@@ -1,25 +1,25 @@
-import video1 from './assets/1.mp4'
-import video2 from './assets/2.mp4'
-import video3 from './assets/3.mp4'
-import video4 from './assets/4.mp4'
-import video5 from './assets/5.mp4'
-import video6 from './assets/6.mp4'
-import video7 from './assets/7.mp4'
-import video8 from './assets/8.mp4'
-import video9 from './assets/9.mp4'
-import video10 from './assets/10.mp4'
-import video11 from './assets/11.mp4'
-import video12 from './assets/12.mp4'
-import video13 from './assets/13.mp4'
-import video14 from './assets/14.mp4'
-import video15 from './assets/15.mp4'
-import video16 from './assets/16.mp4'
-import video17 from './assets/17.mp4'
-import video18 from './assets/18.mp4'
-import video19 from './assets/19.mp4'
-import video20 from './assets/20.mp4'
-import video21 from './assets/21.mp4'
-import video22 from './assets/22.mp4'
+const video1 ="https://res.cloudinary.com/deepank123/video/upload/v1687327344/xcs/1_ahjcc8.mp4"
+const video2 ="https://res.cloudinary.com/deepank123/video/upload/v1687327876/xcs/2_yfkdaf.mp4"
+const video3 ="https://res.cloudinary.com/deepank123/video/upload/v1687327558/xcs/3_lgxmck.mp4"
+const video4 ="https://res.cloudinary.com/deepank123/video/upload/v1687327842/xcs/4_n7nxup.mp4"
+const video5 ="https://res.cloudinary.com/deepank123/video/upload/v1687327564/xcs/5_cd0ewh.mp4"
+const video6 ="https://res.cloudinary.com/deepank123/video/upload/v1687327541/xcs/6_zihdwi.mp4"
+const video7 ="https://res.cloudinary.com/deepank123/video/upload/v1687327529/xcs/7_drqxn7.mp4"
+const video8 ="https://res.cloudinary.com/deepank123/video/upload/v1687328070/xcs/8_vh43dk.mp4"
+const video9 ="https://res.cloudinary.com/deepank123/video/upload/v1687327996/xcs/9_otwuus.mp4"
+const video10 ="https://res.cloudinary.com/deepank123/video/upload/v1687328062/xcs/10_p1y2pq.mp4"
+const video11 ="https://res.cloudinary.com/deepank123/video/upload/v1687327993/xcs/11_uzyxnq.mp4"
+const video12 ="https://res.cloudinary.com/deepank123/video/upload/v1687327673/xcs/12_tdg58r.mp4"
+const video13 ="https://res.cloudinary.com/deepank123/video/upload/v1687328055/xcs/13_lw3i1r.mp4"
+const video14 ="https://res.cloudinary.com/deepank123/video/upload/v1687327717/xcs/14_kza8is.mp4"
+const video15 ="https://res.cloudinary.com/deepank123/video/upload/v1687327805/xcs/15_kxxahv.mp4"
+const video16 ="https://res.cloudinary.com/deepank123/video/upload/v1687327807/xcs/16_wdvbrz.mp4"
+const video17 ="https://res.cloudinary.com/deepank123/video/upload/v1687327787/xcs/17_ogyvzi.mp4"
+const video18 ="https://res.cloudinary.com/deepank123/video/upload/v1687327835/xcs/18_rdnizi.mp4"
+const video19 ="https://res.cloudinary.com/deepank123/video/upload/v1687328067/xcs/19_atp7re.mp4"
+const video20 ="https://res.cloudinary.com/deepank123/video/upload/v1687327837/xcs/20_gincw8.mp4"
+const video21 ="https://res.cloudinary.com/deepank123/video/upload/v1687327945/xcs/21_qntdrz.mp4"
+const video22 ="https://res.cloudinary.com/deepank123/video/upload/v1687327987/xcs/22_nwzadh.mp4"
 
 export default [
     video1,

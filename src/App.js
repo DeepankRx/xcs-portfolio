@@ -14,10 +14,7 @@ const Card = ({ title, video, date }) => {
   return (
     <div className="w-full md:w-[25%] shadow-md rounded ">
       <div className="h-48 md:h-56 rounded-t-md relative overflow-hidden">
-        <video src={video} className="w-full h-full object-fit"
-  controls
-
-        />
+        <video src={video} className="w-full h-full object-fit" controls />
       </div>
       <div className="p-4">
         <h1 className="text-xl font-medium">{title}</h1>
